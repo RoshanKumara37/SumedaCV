@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SumedaCV/static/css/main.2aa98316.css",
+    "main.js": "/SumedaCV/static/js/main.74875210.js",
+    "static/media/SumedhaIMG1.png": "/SumedaCV/static/media/SumedhaIMG1.3ed84f57bd4a3d683992.png",
+    "static/media/web-removebg-preview.png": "/SumedaCV/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
+    "static/media/bars.svg": "/SumedaCV/static/media/bars.b264a25d796c08e0e322.svg",
+    "index.html": "/SumedaCV/index.html",
+    "main.2aa98316.css.map": "/SumedaCV/static/css/main.2aa98316.css.map",
+    "main.74875210.js.map": "/SumedaCV/static/js/main.74875210.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aa98316.css",
+    "static/js/main.74875210.js"
+  ]
+}
